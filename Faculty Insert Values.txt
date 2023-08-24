@@ -1,0 +1,10 @@
+INSERT INTO Faculty
+VALUES(10001, "Jason", "M", 25000)
+
+INSERT INTO Faculty
+VALUES(10002, "Astel", "M", 27000)
+
+INSERT INTO Faculty
+VALUES(10003, "Enna", "F", 26500)
+
+

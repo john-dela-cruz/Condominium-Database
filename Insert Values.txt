@@ -1,0 +1,76 @@
+INSERT INTO Condominium
+VALUES(10001, 1, "Justin", "101", "justin@email.com", "09231245632", "M", 22, "N")
+
+INSERT INTO Condominium
+VALUES(10002, 3, "Kim", "210", "kim@email.com", "09221321232", "F", 19, "N")
+
+INSERT INTO Condominium
+VALUES(10003, 2, "Chris", "510", "chris@email.com", "09221345621", "M", 36, "Y")
+
+INSERT INTO Condominium
+VALUES(10004, 3, "Miko", "1008", "miko@email.com", "09555521123", "F", 25, "N")
+
+INSERT INTO Condominium
+VALUES(10005, 1, "Lonny", "901", "lonny@email.com", "09120212232", "M", 45, "Y")
+
+INSERT INTO Condominium
+VALUES(10006, 1, "Ann", "102", "ann@email.com", "09003221444", "F", 27, "Y")
+
+INSERT INTO Condominium
+VALUES(10007, 3, "Akito", "801", "akito@email.com", "09114445532", "M", 17, "N")
+
+INSERT INTO Condominium
+VALUES(10008, 2, "Kiara", "1010", "kiara@email.com", "09555321444", "F", 20, "Y")
+
+INSERT INTO Condominium
+VALUES(10009, 3, "Joseph", "209", "joseph@email.com", "09667224562", "M", 17, "Y")
+
+INSERT INTO Condominium
+VALUES(10010, 2, "Calli", "1009", "calli@email.com", "09253211455", "F", 21, "Y")
+
+INSERT INTO Condominium
+VALUES(10011, 1, "Amelia", "802", "amelia@email.com", "09552111232", "F", 19, "N")
+
+INSERT INTO Condominium
+VALUES(10012, 1, "Tanigo", "103", "tanigo@email.com", "09321367232", "M", 32, "N")
+
+INSERT INTO Condominium
+VALUES(10013, 3, "Akin", "304", "akin@email.com", "09272323213", "F", 35, "Y")
+
+INSERT INTO Condominium
+VALUES(10014, 3, "Austin", "403", "austin@email.com", "09111321367", "M", 16, "N")
+
+INSERT INTO Condominium
+VALUES(10015, 2, "Sui", "505", "sui@email.com", "09723321321", "F", 21, "Y")
+
+INSERT INTO Condominium
+VALUES(10016, 1, "Felix", "508", "felix@email.com", "09332131232", "M", 31, "Y")
+
+INSERT INTO Condominium
+VALUES(10017, 1, "Darren", "607", "darren@email.com", "09211321312", "M", 27, "N")
+
+INSERT INTO Condominium
+VALUES(10018, 2, "Mudae", "601", "mudae@email.com", "09132121113", "M", 20, "Y")
+
+INSERT INTO Condominium
+VALUES(10019, 3, "Ken", "908", "ken@email.com", "09212191378", "M", 19, "N")
+
+INSERT INTO Condominium
+VALUES(10020, 1, "Kobe", "509", "kobe@email.com", "09296621452", "M", 41, "Y")
+
+INSERT INTO Condominium
+VALUES(10021, 3, "Silco", "710", "silco@email.com", "09966221214", "M", 51, "N")
+
+INSERT INTO Condominium
+VALUES(10022, 2, "Tamari", "705", "tamari@email.com", "09622324444", "F", 20, "N")
+
+INSERT INTO Condominium
+VALUES(10023, 3, "Billy", "401", "billy@email.com", "09212324432", "M", 17, "Y")
+
+INSERT INTO Condominium
+VALUES(10024, 2, "Cherry", "404", "cherry@email.com", "09556377732", "F", 46, "N")
+
+INSERT INTO Condominium
+VALUES(10025, 3, "Pomu", "308", "pomu@email.com", "09563355762", "F", 21, "Y")
+
+
